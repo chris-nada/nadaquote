@@ -1,0 +1,6 @@
+.vscode
+build/*
+libs/*
+!libs/CMakeLists.txt
+!libs/download_libraries.py
+!libs/imconfig-SFML.h
