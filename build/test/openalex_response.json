@@ -1,0 +1,3497 @@
+{
+    "meta": {
+        "count": 12,
+        "db_response_time_ms": 44,
+        "page": 1,
+        "per_page": 25
+    },
+    "results": [
+        {
+            "id": "https://openalex.org/W2979095989",
+            "doi": null,
+            "title": "Diercke-Wörterbuch allgemeine Geographie",
+            "display_name": "Diercke-Wörterbuch allgemeine Geographie",
+            "relevance_score": 142.85562,
+            "publication_year": 2001,
+            "publication_date": "2001-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2979095989",
+                "mag": "2979095989"
+            },
+            "host_venue": {
+                "id": null,
+                "issn_l": null,
+                "issn": null,
+                "display_name": null,
+                "publisher": null,
+                "type": null,
+                "url": null,
+                "is_oa": false,
+                "version": null,
+                "license": null
+            },
+            "type": null,
+            "open_access": {
+                "is_oa": false,
+                "oa_status": null,
+                "oa_url": null
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A2328899586",
+                        "display_name": "Hartmut Leser",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "raw_affiliation_string": null
+                }
+            ],
+            "cited_by_count": 8,
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": null,
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C138885662",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5891",
+                    "display_name": "Philosophy",
+                    "level": 0,
+                    "score": "0.35752985"
+                }
+            ],
+            "mesh": [],
+            "alternate_host_venues": [
+                {
+                    "id": null,
+                    "display_name": null,
+                    "type": null,
+                    "url": null,
+                    "is_oa": false,
+                    "version": null,
+                    "license": null
+                }
+            ],
+            "referenced_works": [],
+            "related_works": [],
+            "ngrams_url": "https://api.openalex.org/works/W2979095989/ngrams",
+            "abstract_inverted_index": null,
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2979095989",
+            "counts_by_year": [
+                {
+                    "year": 2017,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2016,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2013,
+                    "cited_by_count": 2
+                }
+            ],
+            "updated_date": "2022-11-22T09:46:28.257692",
+            "created_date": "2019-10-10"
+        },
+        {
+            "id": "https://openalex.org/W1556455301",
+            "doi": null,
+            "title": "Diercke-Wörterbuch der allgemeinen Geographie",
+            "display_name": "Diercke-Wörterbuch der allgemeinen Geographie",
+            "relevance_score": 90.80888,
+            "publication_year": 1984,
+            "publication_date": "1984-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W1556455301",
+                "mag": "1556455301"
+            },
+            "host_venue": {
+                "id": null,
+                "issn_l": null,
+                "issn": null,
+                "display_name": null,
+                "publisher": null,
+                "type": null,
+                "url": null,
+                "is_oa": false,
+                "version": null,
+                "license": null
+            },
+            "type": "book",
+            "open_access": {
+                "is_oa": false,
+                "oa_status": null,
+                "oa_url": null
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A2029515376",
+                        "display_name": "Hartmut Leser",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "raw_affiliation_string": null
+                }
+            ],
+            "cited_by_count": 4,
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": null,
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": "0.32758301"
+                }
+            ],
+            "mesh": [],
+            "alternate_host_venues": [
+                {
+                    "id": null,
+                    "display_name": null,
+                    "type": null,
+                    "url": null,
+                    "is_oa": false,
+                    "version": null,
+                    "license": null
+                }
+            ],
+            "referenced_works": [],
+            "related_works": [],
+            "ngrams_url": "https://api.openalex.org/works/W1556455301/ngrams",
+            "abstract_inverted_index": null,
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W1556455301",
+            "counts_by_year": [
+                {
+                    "year": 2014,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2022-11-20T15:16:31.429671",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W2012722938",
+            "doi": "https://doi.org/10.2167/irgee214.0",
+            "title": "Australia in German Geography Textbooks for Middle Schools",
+            "display_name": "Australia in German Geography Textbooks for Middle Schools",
+            "relevance_score": 10.04612,
+            "publication_year": 2007,
+            "publication_date": "2007-05-15",
+            "ids": {
+                "openalex": "https://openalex.org/W2012722938",
+                "doi": "https://doi.org/10.2167/irgee214.0",
+                "mag": "2012722938"
+            },
+            "host_venue": {
+                "id": "https://openalex.org/V19659266",
+                "issn_l": "1038-2046",
+                "issn": [
+                    "1038-2046",
+                    "1747-7611"
+                ],
+                "display_name": "International Research in Geographical and Environmental Education",
+                "publisher": "Informa",
+                "type": "journal",
+                "url": null,
+                "is_oa": false,
+                "version": null,
+                "license": null
+            },
+            "type": "journal-article",
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A2316906681",
+                        "display_name": "Berta Hamann",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": null,
+                            "display_name": "University of Wuerzburg, Geographic Education , Wittelsbacherplatz 1, 97074, Wuerzburg, Germany",
+                            "ror": null,
+                            "country_code": null,
+                            "type": null
+                        }
+                    ],
+                    "raw_affiliation_string": "University of Wuerzburg, Geographic Education , Wittelsbacherplatz 1, 97074, Wuerzburg, Germany"
+                }
+            ],
+            "cited_by_count": 7,
+            "biblio": {
+                "volume": "16",
+                "issue": "2",
+                "first_page": "135",
+                "last_page": "146"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C154775046",
+                    "wikidata": "https://www.wikidata.org/wiki/Q188",
+                    "display_name": "German",
+                    "level": 2,
+                    "score": "0.6872376"
+                },
+                {
+                    "id": "https://openalex.org/C137403100",
+                    "wikidata": "https://www.wikidata.org/wiki/Q41710",
+                    "display_name": "Ethnic group",
+                    "level": 2,
+                    "score": "0.6604731"
+                },
+                {
+                    "id": "https://openalex.org/C2779343474",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+                    "display_name": "Context (archaeology)",
+                    "level": 2,
+                    "score": "0.64129096"
+                },
+                {
+                    "id": "https://openalex.org/C31170391",
+                    "wikidata": "https://www.wikidata.org/wiki/Q188619",
+                    "display_name": "Hierarchy",
+                    "level": 2,
+                    "score": "0.6259938"
+                },
+                {
+                    "id": "https://openalex.org/C205649164",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1071",
+                    "display_name": "Geography",
+                    "level": 0,
+                    "score": "0.62371916"
+                },
+                {
+                    "id": "https://openalex.org/C2777234453",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2033092",
+                    "display_name": "Flora (microbiology)",
+                    "level": 3,
+                    "score": "0.4808517"
+                },
+                {
+                    "id": "https://openalex.org/C47177190",
+                    "wikidata": "https://www.wikidata.org/wiki/Q207137",
+                    "display_name": "Curriculum",
+                    "level": 2,
+                    "score": "0.47936493"
+                },
+                {
+                    "id": "https://openalex.org/C161034383",
+                    "wikidata": "https://www.wikidata.org/wiki/Q524273",
+                    "display_name": "Social geography",
+                    "level": 3,
+                    "score": "0.44850293"
+                },
+                {
+                    "id": "https://openalex.org/C2776608160",
+                    "wikidata": "https://www.wikidata.org/wiki/Q4785462",
+                    "display_name": "Natural (archaeology)",
+                    "level": 2,
+                    "score": "0.43222582"
+                },
+                {
+                    "id": "https://openalex.org/C87427459",
+                    "wikidata": "https://www.wikidata.org/wiki/Q12831143",
+                    "display_name": "Human geography",
+                    "level": 2,
+                    "score": "0.42433092"
+                },
+                {
+                    "id": "https://openalex.org/C2776291640",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2912517",
+                    "display_name": "Value (mathematics)",
+                    "level": 2,
+                    "score": "0.41905838"
+                },
+                {
+                    "id": "https://openalex.org/C36289849",
+                    "wikidata": "https://www.wikidata.org/wiki/Q34749",
+                    "display_name": "Social science",
+                    "level": 1,
+                    "score": "0.40356755"
+                },
+                {
+                    "id": "https://openalex.org/C148383697",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1781695",
+                    "display_name": "Regional science",
+                    "level": 1,
+                    "score": "0.35848904"
+                },
+                {
+                    "id": "https://openalex.org/C144024400",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21201",
+                    "display_name": "Sociology",
+                    "level": 0,
+                    "score": "0.33095014"
+                },
+                {
+                    "id": "https://openalex.org/C26271046",
+                    "wikidata": "https://www.wikidata.org/wiki/Q187097",
+                    "display_name": "Economic geography",
+                    "level": 1,
+                    "score": "0.28575933"
+                },
+                {
+                    "id": "https://openalex.org/C17744445",
+                    "wikidata": "https://www.wikidata.org/wiki/Q36442",
+                    "display_name": "Political science",
+                    "level": 0,
+                    "score": "0.24234325"
+                },
+                {
+                    "id": "https://openalex.org/C19165224",
+                    "wikidata": "https://www.wikidata.org/wiki/Q23404",
+                    "display_name": "Anthropology",
+                    "level": 1,
+                    "score": "0.16754854"
+                },
+                {
+                    "id": "https://openalex.org/C19417346",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7922",
+                    "display_name": "Pedagogy",
+                    "level": 1,
+                    "score": "0.16713622"
+                },
+                {
+                    "id": "https://openalex.org/C166957645",
+                    "wikidata": "https://www.wikidata.org/wiki/Q23498",
+                    "display_name": "Archaeology",
+                    "level": 1,
+                    "score": "0.13066348"
+                },
+                {
+                    "id": "https://openalex.org/C119857082",
+                    "wikidata": "https://www.wikidata.org/wiki/Q2539",
+                    "display_name": "Machine learning",
+                    "level": 1,
+                    "score": "0.0"
+                },
+                {
+                    "id": "https://openalex.org/C86803240",
+                    "wikidata": "https://www.wikidata.org/wiki/Q420",
+                    "display_name": "Biology",
+                    "level": 0,
+                    "score": "0.0"
+                },
+                {
+                    "id": "https://openalex.org/C523546767",
+                    "wikidata": "https://www.wikidata.org/wiki/Q10876",
+                    "display_name": "Bacteria",
+                    "level": 2,
+                    "score": "0.0"
+                },
+                {
+                    "id": "https://openalex.org/C199539241",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7748",
+                    "display_name": "Law",
+                    "level": 1,
+                    "score": "0.0"
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": "0.0"
+                },
+                {
+                    "id": "https://openalex.org/C54355233",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7162",
+                    "display_name": "Genetics",
+                    "level": 1,
+                    "score": "0.0"
+                }
+            ],
+            "mesh": [],
+            "alternate_host_venues": [
+                {
+                    "id": "https://openalex.org/V19659266",
+                    "display_name": "International Research in Geographical and Environmental Education",
+                    "type": "journal",
+                    "url": null,
+                    "is_oa": false,
+                    "version": null,
+                    "license": null
+                }
+            ],
+            "referenced_works": [
+                "https://openalex.org/W128407381",
+                "https://openalex.org/W1574142971",
+                "https://openalex.org/W2618888947"
+            ],
+            "related_works": [
+                "https://openalex.org/W267792192",
+                "https://openalex.org/W623191432",
+                "https://openalex.org/W636377939",
+                "https://openalex.org/W1498318839",
+                "https://openalex.org/W1924621292",
+                "https://openalex.org/W2268845550",
+                "https://openalex.org/W2336075499",
+                "https://openalex.org/W2369106589",
+                "https://openalex.org/W2801510449",
+                "https://openalex.org/W3125330419"
+            ],
+            "ngrams_url": "https://api.openalex.org/works/W2012722938/ngrams",
+            "abstract_inverted_index": {
+                "German": [
+                    0
+                ],
+                "Geography": [
+                    1,
+                    10
+                ],
+                "textbooks": [
+                    2,
+                    43,
+                    99
+                ],
+                "are": [
+                    3,
+                    63,
+                    72,
+                    94
+                ],
+                "structured": [
+                    4
+                ],
+                "using": [
+                    5
+                ],
+                "the": [
+                    6,
+                    54,
+                    69,
+                    75,
+                    81,
+                    88,
+                    105,
+                    114,
+                    122,
+                    132,
+                    139,
+                    143
+                ],
+                "principle": [
+                    7
+                ],
+                "of": [
+                    8,
+                    66,
+                    80,
+                    85,
+                    87,
+                    119,
+                    124,
+                    134
+                ],
+                "‘Systematic": [
+                    9
+                ],
+                "based": [
+                    11
+                ],
+                "on": [
+                    12,
+                    53
+                ],
+                "a": [
+                    13
+                ],
+                "regional": [
+                    14
+                ],
+                "example’": [
+                    15
+                ],
+                "that": [
+                    16,
+                    62,
+                    93,
+                    97
+                ],
+                "is": [
+                    17,
+                    35
+                ],
+                "predominant": [
+                    18
+                ],
+                "in": [
+                    19,
+                    39,
+                    74,
+                    104,
+                    113,
+                    131,
+                    138
+                ],
+                "Germany.": [
+                    20
+                ],
+                "Compared": [
+                    21
+                ],
+                "to": [
+                    22,
+                    91
+                ],
+                "other": [
+                    23
+                ],
+                "macroregions": [
+                    24
+                ],
+                "such": [
+                    25
+                ],
+                "as": [
+                    26
+                ],
+                "Europe,": [
+                    27
+                ],
+                "North": [
+                    28
+                ],
+                "America,": [
+                    29
+                ],
+                "Africa,": [
+                    30
+                ],
+                "or": [
+                    31,
+                    71
+                ],
+                "Asia,": [
+                    32
+                ],
+                "however,": [
+                    33
+                ],
+                "Australia": [
+                    34,
+                    47,
+                    67,
+                    92
+                ],
+                "presented": [
+                    36
+                ],
+                "less": [
+                    37
+                ],
+                "frequently": [
+                    38
+                ],
+                "school": [
+                    40
+                ],
+                "textbooks.": [
+                    41
+                ],
+                "Those": [
+                    42
+                ],
+                "which": [
+                    44
+                ],
+                "deal": [
+                    45
+                ],
+                "with": [
+                    46
+                ],
+                "do": [
+                    48
+                ],
+                "not": [
+                    49
+                ],
+                "convey": [
+                    50
+                ],
+                "comprehensive": [
+                    51
+                ],
+                "information": [
+                    52
+                ],
+                "country,": [
+                    55
+                ],
+                "but": [
+                    56
+                ],
+                "rather": [
+                    57
+                ],
+                "touch": [
+                    58
+                ],
+                "upon": [
+                    59
+                ],
+                "certain": [
+                    60
+                ],
+                "topics": [
+                    61,
+                    89,
+                    103
+                ],
+                "deemed": [
+                    64
+                ],
+                "characteristic": [
+                    65
+                ],
+                "by": [
+                    68
+                ],
+                "authors": [
+                    70
+                ],
+                "stipulated": [
+                    73
+                ],
+                "curriculum.": [
+                    76
+                ],
+                "A": [
+                    77
+                ],
+                "quantitative": [
+                    78
+                ],
+                "analysis": [
+                    79
+                ],
+                "frequency": [
+                    82
+                ],
+                "and": [
+                    83,
+                    110,
+                    127,
+                    141,
+                    146
+                ],
+                "level": [
+                    84
+                ],
+                "detail": [
+                    86
+                ],
+                "pertaining": [
+                    90
+                ],
+                "covered": [
+                    95
+                ],
+                "reveals": [
+                    96
+                ],
+                "most": [
+                    98
+                ],
+                "present": [
+                    100
+                ],
+                "five": [
+                    101
+                ],
+                "higher-order": [
+                    102
+                ],
+                "following": [
+                    106
+                ],
+                "order:": [
+                    107
+                ],
+                "ethnic": [
+                    108
+                ],
+                "groups": [
+                    109
+                ],
+                "their": [
+                    111
+                ],
+                "dynamics": [
+                    112
+                ],
+                "social": [
+                    115
+                ],
+                "hierarchy,": [
+                    116
+                ],
+                "deterministic": [
+                    117
+                ],
+                "factors": [
+                    118
+                ],
+                "natural": [
+                    120,
+                    125,
+                    150
+                ],
+                "geography,": [
+                    121
+                ],
+                "potential": [
+                    123
+                ],
+                "spaces": [
+                    126
+                ],
+                "value-added": [
+                    128
+                ],
+                "utilisation": [
+                    129
+                ],
+                "thereof": [
+                    130
+                ],
+                "context": [
+                    133
+                ],
+                "economic": [
+                    135
+                ],
+                "development,": [
+                    136
+                ],
+                "life": [
+                    137
+                ],
+                "outback,": [
+                    140
+                ],
+                "finally": [
+                    142
+                ],
+                "endemic": [
+                    144
+                ],
+                "flora": [
+                    145
+                ],
+                "fauna.": [
+                    147
+                ],
+                "The": [
+                    148
+                ],
+                "unique": [
+                    149
+                ],
+                "c...": [
+                    151
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2012722938",
+            "counts_by_year": [
+                {
+                    "year": 2020,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2017,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2015,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2014,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2013,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2012,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2022-11-23T01:48:26.285628",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W2084945680",
+            "doi": "https://doi.org/10.1016/j.geoforum.2007.07.005",
+            "title": "Encyclopaedic vision: Speculating on The Dictionary of Human Geography",
+            "display_name": "Encyclopaedic vision: Speculating on The Dictionary of Human Geography",
+            "relevance_score": 2.8832502,
+            "publication_year": 2008,
+            "publication_date": "2008-05-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2084945680",
+                "doi": "https://doi.org/10.1016/j.geoforum.2007.07.005",
+                "mag": "2084945680"
+            },
+            "host_venue": {
+                "id": "https://openalex.org/V169586356",
+                "issn_l": "0016-7185",
+                "issn": [
+                    "0016-7185",
+                    "1872-9398"
+                ],
+                "display_name": "Geoforum",
+                "publisher": "Elsevier",
+                "type": "journal",
+                "url": null,
+                "is_oa": false,
+                "version": null,
+                "license": null
+            },
+            "type": "journal-article",
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A2127276609",
+                        "display_name": "Gunhild Setten",
+                        "orcid": "https://orcid.org/0000-0002-8838-2685"
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I204778367",
+                            "display_name": "Norwegian University of Science and Technology",
+                            "ror": "https://ror.org/05xg72x27",
+                            "country_code": "NO",
+                            "type": "education"
+                        }
+                    ],
+                    "raw_affiliation_string": "Department of Geography , Norwegian University of Science and Technology , NO-7491, Trondheim, Norway"
+                }
+            ],
+            "cited_by_count": 5,
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C2777855551",
+                    "wikidata": "https://www.wikidata.org/wiki/Q12310021",
+                    "display_name": "Subject (documents)",
+                    "level": 2,
+                    "score": "0.5874756"
+                },
+                {
+                    "id": "https://openalex.org/C87427459",
+                    "wikidata": "https://www.wikidata.org/wiki/Q12831143",
+                    "display_name": "Human geography",
+                    "level": 2,
+                    "score": "0.52221125"
+                },
+                {
+                    "id": "https://openalex.org/C144024400",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21201",
+                    "display_name": "Sociology",
+                    "level": 0,
+                    "score": "0.43912083"
+                },
+                {
+                    "id": "https://openalex.org/C151719136",
+                    "wikidata": "https://www.wikidata.org/wiki/Q3972943",
+                    "display_name": "Publishing",
+                    "level": 2,
+                    "score": "0.41157642"
+                },
+                {
+                    "id": "https://openalex.org/C36289849",
+                    "wikidata": "https://www.wikidata.org/wiki/Q34749",
+                    "display_name": "Social science",
+                    "level": 1,
+                    "score": "0.24268365"
+                },
+                {
+                    "id": "https://openalex.org/C199539241",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7748",
+                    "display_name": "Law",
+                    "level": 1,
+                    "score": "0.1825802"
+                },
+                {
+                    "id": "https://openalex.org/C161191863",
+                    "wikidata": "https://www.wikidata.org/wiki/Q199655",
+                    "display_name": "Library science",
+                    "level": 1,
+                    "score": "0.16354233"
+                },
+                {
+                    "id": "https://openalex.org/C17744445",
+                    "wikidata": "https://www.wikidata.org/wiki/Q36442",
+                    "display_name": "Political science",
+                    "level": 0,
+                    "score": "0.10105556"
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": "0.09031534"
+                }
+            ],
+            "mesh": [],
+            "alternate_host_venues": [
+                {
+                    "id": "https://openalex.org/V169586356",
+                    "display_name": "Geoforum",
+                    "type": "journal",
+                    "url": null,
+                    "is_oa": false,
+                    "version": null,
+                    "license": null
+                }
+            ],
+            "referenced_works": [
+                "https://openalex.org/W407897055",
+                "https://openalex.org/W567119034",
+                "https://openalex.org/W595960044",
+                "https://openalex.org/W1515446398",
+                "https://openalex.org/W1530724950",
+                "https://openalex.org/W1557685787",
+                "https://openalex.org/W1559020400",
+                "https://openalex.org/W1568021011",
+                "https://openalex.org/W1572000293",
+                "https://openalex.org/W1583385890",
+                "https://openalex.org/W1932232310",
+                "https://openalex.org/W1964408149",
+                "https://openalex.org/W1975818422",
+                "https://openalex.org/W1977896062",
+                "https://openalex.org/W1997320793",
+                "https://openalex.org/W2009760301",
+                "https://openalex.org/W2015287541",
+                "https://openalex.org/W2032552779",
+                "https://openalex.org/W2038096290",
+                "https://openalex.org/W2052765545",
+                "https://openalex.org/W2056471453",
+                "https://openalex.org/W2058163158",
+                "https://openalex.org/W2076395817",
+                "https://openalex.org/W2090843157",
+                "https://openalex.org/W2150647790",
+                "https://openalex.org/W2225055160",
+                "https://openalex.org/W2311901848",
+                "https://openalex.org/W2313241962",
+                "https://openalex.org/W2333368398",
+                "https://openalex.org/W2799032659",
+                "https://openalex.org/W3128636248"
+            ],
+            "related_works": [
+                "https://openalex.org/W26870944",
+                "https://openalex.org/W268008913",
+                "https://openalex.org/W808929927",
+                "https://openalex.org/W1509254906",
+                "https://openalex.org/W1981233524",
+                "https://openalex.org/W2054473693",
+                "https://openalex.org/W2083507278",
+                "https://openalex.org/W2123422055",
+                "https://openalex.org/W2169102337",
+                "https://openalex.org/W2257828548",
+                "https://openalex.org/W2481931745",
+                "https://openalex.org/W2853406069",
+                "https://openalex.org/W2895925073",
+                "https://openalex.org/W3170587629"
+            ],
+            "ngrams_url": "https://api.openalex.org/works/W2084945680/ngrams",
+            "abstract_inverted_index": {
+                "Abstract": [
+                    0
+                ],
+                "Since": [
+                    3
+                ],
+                "the": [
+                    4,
+                    7,
+                    13,
+                    27,
+                    38,
+                    41,
+                    59,
+                    156,
+                    167,
+                    170,
+                    181,
+                    184,
+                    220
+                ],
+                "turn": [
+                    5
+                ],
+                "of": [
+                    6,
+                    15,
+                    29,
+                    49,
+                    63,
+                    72,
+                    90,
+                    105,
+                    122,
+                    141,
+                    169,
+                    196,
+                    200,
+                    208,
+                    211,
+                    219,
+                    223
+                ],
+                "millennium,": [
+                    8
+                ],
+                "human": [
+                    9,
+                    197
+                ],
+                "geography": [
+                    10
+                ],
+                "has": [
+                    11,
+                    158
+                ],
+                "witnessed": [
+                    12
+                ],
+                "publishing": [
+                    14
+                ],
+                "an": [
+                    16,
+                    192
+                ],
+                "increasing": [
+                    17
+                ],
+                "number": [
+                    18
+                ],
+                "encyclopaedias": [
+                    19
+                ],
+                "and": [
+                    20,
+                    32,
+                    61,
+                    66,
+                    215
+                ],
+                "dictionaries": [
+                    21
+                ],
+                "as": [
+                    22,
+                    24,
+                    46,
+                    191
+                ],
+                "well": [
+                    23
+                ],
+                "books": [
+                    25
+                ],
+                "under": [
+                    26
+                ],
+                "headings": [
+                    28
+                ],
+                "“handbooks”,": [
+                    30
+                ],
+                "“readers”": [
+                    31
+                ],
+                "“companions”": [
+                    33
+                ],
+                "to": [
+                    34,
+                    56,
+                    152,
+                    180,
+                    187
+                ],
+                "different": [
+                    35
+                ],
+                "fields": [
+                    36
+                ],
+                "within": [
+                    37
+                ],
+                "discipline.": [
+                    39,
+                    171
+                ],
+                "In": [
+                    40
+                ],
+                "present": [
+                    42
+                ],
+                "paper,": [
+                    43
+                ],
+                "I": [
+                    44
+                ],
+                "take": [
+                    45
+                ],
+                "a": [
+                    47,
+                    64,
+                    206,
+                    217
+                ],
+                "point": [
+                    48
+                ],
+                "departure": [
+                    50
+                ],
+                "this": [
+                    51,
+                    177
+                ],
+                "encyclopaedic": [
+                    52
+                ],
+                "“frenzy”": [
+                    53
+                ],
+                "in": [
+                    54,
+                    165
+                ],
+                "order": [
+                    55
+                ],
+                "speculate": [
+                    57
+                ],
+                "on": [
+                    58
+                ],
+                "works": [
+                    60,
+                    168
+                ],
+                "values": [
+                    62
+                ],
+                "long-standing": [
+                    65
+                ],
+                "authoritative": [
+                    67
+                ],
+                "geographical": [
+                    68
+                ],
+                "companion,": [
+                    69
+                ],
+                "The": [
+                    70,
+                    88,
+                    103,
+                    120,
+                    139,
+                    202
+                ],
+                "Dictionary": [
+                    71,
+                    89,
+                    104,
+                    121,
+                    140
+                ],
+                "Human": [
+                    73,
+                    91,
+                    106,
+                    123,
+                    142
+                ],
+                "Geography": [
+                    74
+                ],
+                "(DHG)": [
+                    75
+                ],
+                "[Johnston,": [
+                    76
+                ],
+                "R.J.,": [
+                    77,
+                    96,
+                    113,
+                    130
+                ],
+                "Gregory,": [
+                    78,
+                    97,
+                    114,
+                    131
+                ],
+                "D.,": [
+                    79,
+                    98,
+                    115,
+                    132
+                ],
+                "Haggett,": [
+                    80
+                ],
+                "P.,": [
+                    81
+                ],
+                "Smith,": [
+                    82,
+                    99,
+                    116
+                ],
+                "D.M.,": [
+                    83
+                ],
+                "Stoddart,": [
+                    84
+                ],
+                "D.R.": [
+                    85
+                ],
+                "(Eds.),": [
+                    86,
+                    101,
+                    118,
+                    137
+                ],
+                "1981.": [
+                    87
+                ],
+                "Geography.": [
+                    92
+                ],
+                "Blackwell,": [
+                    93,
+                    110,
+                    127,
+                    146
+                ],
+                "Oxford;": [
+                    94,
+                    111,
+                    128
+                ],
+                "Johnston,": [
+                    95,
+                    112,
+                    129
+                ],
+                "D.M.": [
+                    100,
+                    117
+                ],
+                "1986a.": [
+                    102
+                ],
+                "Geography,": [
+                    107,
+                    124,
+                    143
+                ],
+                "second": [
+                    108
+                ],
+                "ed.": [
+                    109,
+                    126,
+                    145
+                ],
+                "1994.": [
+                    119
+                ],
+                "third": [
+                    125
+                ],
+                "Pratt,": [
+                    133
+                ],
+                "G.,": [
+                    134
+                ],
+                "Watts,": [
+                    135
+                ],
+                "M.": [
+                    136
+                ],
+                "2000a.": [
+                    138
+                ],
+                "fourth": [
+                    144
+                ],
+                "Oxford].": [
+                    147
+                ],
+                "Apart": [
+                    148
+                ],
+                "from": [
+                    149,
+                    161
+                ],
+                "being": [
+                    150
+                ],
+                "subject": [
+                    151
+                ],
+                "regular": [
+                    153
+                ],
+                "book": [
+                    154
+                ],
+                "reviews,": [
+                    155
+                ],
+                "DHG": [
+                    157,
+                    185,
+                    203
+                ],
+                "escaped": [
+                    159
+                ],
+                "attention": [
+                    160
+                ],
+                "geographers": [
+                    162
+                ],
+                "critically": [
+                    163
+                ],
+                "engaged": [
+                    164
+                ],
+                "debating": [
+                    166
+                ],
+                "It": [
+                    172
+                ],
+                "is": [
+                    173,
+                    178
+                ],
+                "argued": [
+                    174
+                ],
+                "here": [
+                    175
+                ],
+                "that": [
+                    176,
+                    183
+                ],
+                "due": [
+                    179
+                ],
+                "fact": [
+                    182
+                ],
+                "appears": [
+                    186
+                ],
+                "have": [
+                    188
+                ],
+                "established": [
+                    189
+                ],
+                "itself": [
+                    190
+                ],
+                "apparently": [
+                    193
+                ],
+                "objective": [
+                    194
+                ],
+                "recording": [
+                    195
+                ],
+                "geographers’": [
+                    198
+                ],
+                "myriad": [
+                    199
+                ],
+                "interests.": [
+                    201
+                ],
+                "is,": [
+                    204
+                ],
+                "however,": [
+                    205
+                ],
+                "product": [
+                    207
+                ],
+                "complex": [
+                    209
+                ],
+                "webs": [
+                    210
+                ],
+                "subjective,": [
+                    212
+                ],
+                "situated": [
+                    213
+                ],
+                "concerns": [
+                    214
+                ],
+                "thus": [
+                    216
+                ],
+                "version": [
+                    218
+                ],
+                "discipline": [
+                    221
+                ],
+                "deserving": [
+                    222
+                ],
+                "debate.": [
+                    224
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2084945680",
+            "counts_by_year": [
+                {
+                    "year": 2022,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2012,
+                    "cited_by_count": 1
+                }
+            ],
+            "updated_date": "2022-11-23T13:51:32.994085",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W2174252379",
+            "doi": "https://doi.org/10.1080/03085695108591984",
+            "title": "A forthcoming bibliography of Ptolemy's geography",
+            "display_name": "A forthcoming bibliography of Ptolemy's geography",
+            "publication_year": 1951,
+            "publication_date": "1951-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2174252379",
+                "doi": "https://doi.org/10.1080/03085695108591984",
+                "mag": "2174252379"
+            },
+            "host_venue": {
+                "id": "https://openalex.org/V160765276",
+                "issn_l": "0308-5694",
+                "issn": [
+                    "1479-7801",
+                    "0308-5694"
+                ],
+                "display_name": "Imago Mundi",
+                "publisher": "Informa",
+                "type": "journal",
+                "url": null,
+                "is_oa": false,
+                "version": null,
+                "license": null
+            },
+            "type": "journal-article",
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A2604831668",
+                        "display_name": "William H. Stahl",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "raw_affiliation_string": null
+                }
+            ],
+            "cited_by_count": 0,
+            "biblio": {
+                "volume": "8",
+                "issue": "1",
+                "first_page": "26",
+                "last_page": "26"
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C46984397",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7257100",
+                    "display_name": "Ptolemy's table of chords",
+                    "level": 2,
+                    "score": "0.966486"
+                },
+                {
+                    "id": "https://openalex.org/C97002063",
+                    "wikidata": "https://www.wikidata.org/wiki/Q134995",
+                    "display_name": "Bibliography",
+                    "level": 2,
+                    "score": "0.7556342"
+                },
+                {
+                    "id": "https://openalex.org/C205649164",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1071",
+                    "display_name": "Geography",
+                    "level": 0,
+                    "score": "0.5681039"
+                },
+                {
+                    "id": "https://openalex.org/C148383697",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1781695",
+                    "display_name": "Regional science",
+                    "level": 1,
+                    "score": "0.36897442"
+                },
+                {
+                    "id": "https://openalex.org/C95457728",
+                    "wikidata": "https://www.wikidata.org/wiki/Q309",
+                    "display_name": "History",
+                    "level": 0,
+                    "score": "0.36083102"
+                },
+                {
+                    "id": "https://openalex.org/C58640448",
+                    "wikidata": "https://www.wikidata.org/wiki/Q42515",
+                    "display_name": "Cartography",
+                    "level": 1,
+                    "score": "0.35055298"
+                },
+                {
+                    "id": "https://openalex.org/C161191863",
+                    "wikidata": "https://www.wikidata.org/wiki/Q199655",
+                    "display_name": "Library science",
+                    "level": 1,
+                    "score": "0.32980368"
+                },
+                {
+                    "id": "https://openalex.org/C74916050",
+                    "wikidata": "https://www.wikidata.org/wiki/Q841090",
+                    "display_name": "Classics",
+                    "level": 1,
+                    "score": "0.2346186"
+                },
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": "0.15822491"
+                }
+            ],
+            "mesh": [],
+            "alternate_host_venues": [
+                {
+                    "id": "https://openalex.org/V160765276",
+                    "display_name": "Imago Mundi",
+                    "type": "journal",
+                    "url": null,
+                    "is_oa": false,
+                    "version": null,
+                    "license": null
+                }
+            ],
+            "referenced_works": [],
+            "related_works": [],
+            "ngrams_url": "https://api.openalex.org/works/W2174252379/ngrams",
+            "abstract_inverted_index": null,
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2174252379",
+            "counts_by_year": [],
+            "updated_date": "2022-11-23T00:49:39.109559",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W2329557674",
+            "doi": "https://doi.org/10.2307/1797404",
+            "title": "Westermann Lexikon der Geographie. Vol. I: A-E",
+            "display_name": "Westermann Lexikon der Geographie. Vol. I: A-E",
+            "publication_year": 1969,
+            "publication_date": "1969-09-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2329557674",
+                "doi": "https://doi.org/10.2307/1797404",
+                "mag": "2329557674"
+            },
+            "host_venue": {
+                "id": "https://openalex.org/V54255202",
+                "issn_l": "0016-7398",
+                "issn": [
+                    "1475-4959",
+                    "0016-7398"
+                ],
+                "display_name": "The Geographical Journal",
+                "publisher": "Wiley",
+                "type": "journal",
+                "url": null,
+                "is_oa": false,
+                "version": null,
+                "license": null
+            },
+            "type": "journal-article",
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A2635942828",
+                        "display_name": "G. R. Crone",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "raw_affiliation_string": null
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A2573838682",
+                        "display_name": "Wolf Tietze",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "raw_affiliation_string": null
+                }
+            ],
+            "cited_by_count": 0,
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": "0.29735893"
+                }
+            ],
+            "mesh": [],
+            "alternate_host_venues": [
+                {
+                    "id": "https://openalex.org/V54255202",
+                    "display_name": "The Geographical Journal",
+                    "type": "journal",
+                    "url": null,
+                    "is_oa": false,
+                    "version": null,
+                    "license": null
+                }
+            ],
+            "referenced_works": [],
+            "related_works": [],
+            "ngrams_url": "https://api.openalex.org/works/W2329557674/ngrams",
+            "abstract_inverted_index": null,
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2329557674",
+            "counts_by_year": [],
+            "updated_date": "2022-11-25T12:03:18.921864",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W4232851645",
+            "doi": "https://doi.org/10.1007/bf00219588",
+            "title": "Book reviews",
+            "display_name": "Book reviews",
+            "publication_year": 1980,
+            "publication_date": "1980-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W4232851645",
+                "doi": "https://doi.org/10.1007/bf00219588"
+            },
+            "host_venue": {
+                "id": "https://openalex.org/V123313652",
+                "issn_l": "0343-2521",
+                "issn": [
+                    "1572-9893",
+                    "0343-2521"
+                ],
+                "display_name": "GeoJournal",
+                "publisher": "Springer Nature",
+                "type": "journal",
+                "url": null,
+                "is_oa": false,
+                "version": null,
+                "license": null
+            },
+            "type": "journal-article",
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A4267190716",
+                        "display_name": "E.M. Yates",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "raw_affiliation_string": null
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A4267190717",
+                        "display_name": "W. Manshard",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "raw_affiliation_string": null
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A4267190718",
+                        "display_name": "Yrj� Vasari",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "raw_affiliation_string": null
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A4267190719",
+                        "display_name": "JacobO. Maos",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "raw_affiliation_string": null
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A4267190720",
+                        "display_name": "C.A. Halstead",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "raw_affiliation_string": null
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A4267190721",
+                        "display_name": "Dieter Steiner",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "raw_affiliation_string": null
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A4267190722",
+                        "display_name": "Thomas Peucker",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "raw_affiliation_string": null
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A4267190723",
+                        "display_name": "Lisbeth Seeley-Heuse",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "raw_affiliation_string": null
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A4267190724",
+                        "display_name": "Olof Hedbom",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "raw_affiliation_string": null
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A4267190725",
+                        "display_name": "HowardF. Gregor",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "raw_affiliation_string": null
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A4267190726",
+                        "display_name": "K.-Seguin Maurice",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "raw_affiliation_string": null
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A4267190727",
+                        "display_name": "Klaus-Achim Boesler",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "raw_affiliation_string": null
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A4267190728",
+                        "display_name": "C. Koeman",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "raw_affiliation_string": null
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A4267190729",
+                        "display_name": "G.H.T. Hart",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "raw_affiliation_string": null
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A4267190730",
+                        "display_name": "H. Dequin",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "raw_affiliation_string": null
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A4267190731",
+                        "display_name": "M. Richter",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "raw_affiliation_string": null
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A4267190732",
+                        "display_name": "PeterH. Nash",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "raw_affiliation_string": null
+                }
+            ],
+            "cited_by_count": 0,
+            "biblio": {
+                "volume": "4",
+                "issue": "4",
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C87427459",
+                    "wikidata": "https://www.wikidata.org/wiki/Q12831143",
+                    "display_name": "Human geography",
+                    "level": 2,
+                    "score": "0.7218431"
+                },
+                {
+                    "id": "https://openalex.org/C17744445",
+                    "wikidata": "https://www.wikidata.org/wiki/Q36442",
+                    "display_name": "Political science",
+                    "level": 0,
+                    "score": "0.32231367"
+                },
+                {
+                    "id": "https://openalex.org/C205649164",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1071",
+                    "display_name": "Geography",
+                    "level": 0,
+                    "score": "0.30167115"
+                },
+                {
+                    "id": "https://openalex.org/C26271046",
+                    "wikidata": "https://www.wikidata.org/wiki/Q187097",
+                    "display_name": "Economic geography",
+                    "level": 1,
+                    "score": "0.281613"
+                }
+            ],
+            "mesh": [],
+            "alternate_host_venues": [
+                {
+                    "id": "https://openalex.org/V123313652",
+                    "display_name": "GeoJournal",
+                    "type": "journal",
+                    "url": null,
+                    "is_oa": false,
+                    "version": null,
+                    "license": null
+                }
+            ],
+            "referenced_works": [],
+            "related_works": [
+                "https://openalex.org/W166265924",
+                "https://openalex.org/W199471038",
+                "https://openalex.org/W2068269117",
+                "https://openalex.org/W2071907817",
+                "https://openalex.org/W2093858485",
+                "https://openalex.org/W3021623406",
+                "https://openalex.org/W4234156022",
+                "https://openalex.org/W4249347805",
+                "https://openalex.org/W4253051406",
+                "https://openalex.org/W4256308966"
+            ],
+            "ngrams_url": "https://api.openalex.org/works/W4232851645/ngrams",
+            "abstract_inverted_index": null,
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4232851645",
+            "counts_by_year": [],
+            "updated_date": "2022-11-25T11:10:28.474526",
+            "created_date": "2022-05-12"
+        },
+        {
+            "id": "https://openalex.org/W613524305",
+            "doi": null,
+            "title": "Diercke Geographie, Wirtschaft, Gemeinschaftskunde : für Gymnasien in Baden-württemberg",
+            "display_name": "Diercke Geographie, Wirtschaft, Gemeinschaftskunde : für Gymnasien in Baden-württemberg",
+            "publication_year": 2004,
+            "publication_date": "2004-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W613524305",
+                "mag": "613524305"
+            },
+            "host_venue": {
+                "id": "https://openalex.org/V4306482765",
+                "issn_l": null,
+                "issn": null,
+                "display_name": "Westermann eBooks",
+                "publisher": "Westermann",
+                "type": "ebook platform",
+                "url": null,
+                "is_oa": false,
+                "version": null,
+                "license": null
+            },
+            "type": "book",
+            "open_access": {
+                "is_oa": false,
+                "oa_status": null,
+                "oa_url": null
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A1981080583",
+                        "display_name": "Walter Weidner",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "raw_affiliation_string": null
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A1972557637",
+                        "display_name": "Walter Bönig",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "raw_affiliation_string": null
+                }
+            ],
+            "cited_by_count": 0,
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": null,
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C205649164",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1071",
+                    "display_name": "Geography",
+                    "level": 0,
+                    "score": "0.2646502"
+                }
+            ],
+            "mesh": [],
+            "alternate_host_venues": [
+                {
+                    "id": "https://openalex.org/V4306482765",
+                    "display_name": "Westermann eBooks",
+                    "type": "ebook platform",
+                    "url": null,
+                    "is_oa": false,
+                    "version": null,
+                    "license": null
+                }
+            ],
+            "referenced_works": [],
+            "related_works": [],
+            "ngrams_url": "https://api.openalex.org/works/W613524305/ngrams",
+            "abstract_inverted_index": null,
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W613524305",
+            "counts_by_year": [],
+            "updated_date": "2022-11-22T15:13:57.402788",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W641567648",
+            "doi": null,
+            "title": "ABC der Geographiedidaktik",
+            "display_name": "ABC der Geographiedidaktik",
+            "publication_year": 2005,
+            "publication_date": "2005-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W641567648",
+                "mag": "641567648"
+            },
+            "host_venue": {
+                "id": "https://openalex.org/V4306465948",
+                "issn_l": null,
+                "issn": null,
+                "display_name": "Aulis Verlag Deubner eBooks",
+                "publisher": "Aulis Verlag Deubner",
+                "type": "ebook platform",
+                "url": null,
+                "is_oa": false,
+                "version": null,
+                "license": null
+            },
+            "type": "book",
+            "open_access": {
+                "is_oa": false,
+                "oa_status": null,
+                "oa_url": null
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A2159820361",
+                        "display_name": "Helmuth Köck",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "raw_affiliation_string": null
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A2137696067",
+                        "display_name": "Diether Stonjek",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "raw_affiliation_string": null
+                }
+            ],
+            "cited_by_count": 0,
+            "biblio": {
+                "volume": "8",
+                "issue": "2",
+                "first_page": "79",
+                "last_page": "83"
+            },
+            "is_retracted": false,
+            "is_paratext": null,
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C15708023",
+                    "wikidata": "https://www.wikidata.org/wiki/Q80083",
+                    "display_name": "Humanities",
+                    "level": 1,
+                    "score": "0.5443586"
+                },
+                {
+                    "id": "https://openalex.org/C138885662",
+                    "wikidata": "https://www.wikidata.org/wiki/Q5891",
+                    "display_name": "Philosophy",
+                    "level": 0,
+                    "score": "0.5036945"
+                },
+                {
+                    "id": "https://openalex.org/C142362112",
+                    "wikidata": "https://www.wikidata.org/wiki/Q735",
+                    "display_name": "Art",
+                    "level": 0,
+                    "score": "0.42964625"
+                }
+            ],
+            "mesh": [],
+            "alternate_host_venues": [
+                {
+                    "id": "https://openalex.org/V4306465948",
+                    "display_name": "Aulis Verlag Deubner eBooks",
+                    "type": "ebook platform",
+                    "url": null,
+                    "is_oa": false,
+                    "version": null,
+                    "license": null
+                }
+            ],
+            "referenced_works": [],
+            "related_works": [],
+            "ngrams_url": "https://api.openalex.org/works/W641567648/ngrams",
+            "abstract_inverted_index": {
+                "1999": [
+                    124
+                ],
+                "Die": [
+                    0
+                ],
+                "erste": [
+                    1
+                ],
+                "Anfrage": [
+                    2,
+                    118
+                ],
+                "des": [
+                    3,
+                    313
+                ],
+                "Verfassers": [
+                    4
+                ],
+                "dieses": [
+                    5
+                ],
+                "Textes": [
+                    6
+                ],
+                "(HK)": [
+                    7
+                ],
+                "an": [
+                    8,
+                    16,
+                    30,
+                    125,
+                    127,
+                    212,
+                    242
+                ],
+                "Diether": [
+                    9
+                ],
+                "Stonjek": [
+                    10
+                ],
+                "(DS)": [
+                    11
+                ],
+                "wegen": [
+                    12
+                ],
+                "einer": [
+                    13,
+                    31
+                ],
+                "moglichen": [
+                    14
+                ],
+                "Mitarbeit": [
+                    15,
+                    149
+                ],
+                "dem": [
+                    17,
+                    213,
+                    254
+                ],
+                "geplanten": [
+                    18
+                ],
+                "‘Lexikon": [
+                    19
+                ],
+                "der": [
+                    20,
+                    93,
+                    99,
+                    138,
+                    146,
+                    190,
+                    196,
+                    218,
+                    249,
+                    274,
+                    296
+                ],
+                "Geographiedidaktik’": [
+                    21
+                ],
+                "datiert": [
+                    22
+                ],
+                "vom": [
+                    23,
+                    122
+                ],
+                "November": [
+                    24
+                ],
+                "1997.": [
+                    25
+                ],
+                "Zwar": [
+                    26
+                ],
+                "bekundete": [
+                    27
+                ],
+                "DS": [
+                    28,
+                    50,
+                    151,
+                    180,
+                    266
+                ],
+                "Interesse": [
+                    29
+                ],
+                "Mitarbeit;": [
+                    32
+                ],
+                "jedoch": [
+                    33,
+                    65,
+                    163
+                ],
+                "hielt": [
+                    34
+                ],
+                "er": [
+                    35,
+                    155
+                ],
+                "ein": [
+                    36,
+                    55,
+                    62,
+                    238
+                ],
+                "damals": [
+                    37
+                ],
+                "ebenfalls": [
+                    38
+                ],
+                "im": [
+                    39
+                ],
+                "Gesprach": [
+                    40
+                ],
+                "befindliches": [
+                    41
+                ],
+                "‘Studienbuch’": [
+                    42
+                ],
+                "fur": [
+                    43,
+                    78,
+                    135
+                ],
+                "vordringlicher.": [
+                    44
+                ],
+                "Immerhin": [
+                    45
+                ],
+                "verstandigten": [
+                    46
+                ],
+                "sich": [
+                    47,
+                    142,
+                    167,
+                    215
+                ],
+                "HK": [
+                    48,
+                    143,
+                    178,
+                    264
+                ],
+                "und": [
+                    49,
+                    133,
+                    179,
+                    265,
+                    282,
+                    301,
+                    315
+                ],
+                "aber": [
+                    51,
+                    81,
+                    278
+                ],
+                "schon": [
+                    52
+                ],
+                "dahingehend,": [
+                    53
+                ],
+                "dass": [
+                    54
+                ],
+                "derartiges": [
+                    56
+                ],
+                "Lexikon": [
+                    57,
+                    130
+                ],
+                "mehr": [
+                    58
+                ],
+                "sein": [
+                    59
+                ],
+                "musse": [
+                    60,
+                    71
+                ],
+                "als": [
+                    61,
+                    67,
+                    131,
+                    173,
+                    194
+                ],
+                "bloses": [
+                    63
+                ],
+                "‘Worterbuch’,": [
+                    64
+                ],
+                "weniger": [
+                    66
+                ],
+                "eine": [
+                    68,
+                    75,
+                    117,
+                    159
+                ],
+                "‘Abhandlung’.": [
+                    69
+                ],
+                "Es": [
+                    70
+                ],
+                "je": [
+                    72
+                ],
+                "Begriff": [
+                    73
+                ],
+                "um": [
+                    74,
+                    246
+                ],
+                "zwar": [
+                    76
+                ],
+                "schnelle,": [
+                    77
+                ],
+                "den": [
+                    79,
+                    91,
+                    271,
+                    280,
+                    284
+                ],
+                "Augenblick": [
+                    80
+                ],
+                "hinreichende": [
+                    82
+                ],
+                "‘Grundorientierung’": [
+                    83
+                ],
+                "gehen.": [
+                    84
+                ],
+                "Ein": [
+                    85
+                ],
+                "gutes": [
+                    86
+                ],
+                "Vorbild": [
+                    87
+                ],
+                "zur": [
+                    88,
+                    148
+                ],
+                "Orientierung": [
+                    89
+                ],
+                "uber": [
+                    90,
+                    107
+                ],
+                "Zuschnitt": [
+                    92,
+                    217
+                ],
+                "Begriffsdarstellung": [
+                    94,
+                    219
+                ],
+                "konne": [
+                    95
+                ],
+                "Ernst": [
+                    96
+                ],
+                "Neefs": [
+                    97
+                ],
+                "„Gesicht": [
+                    98
+                ],
+                "Erde“": [
+                    100
+                ],
+                "(1962)": [
+                    101
+                ],
+                "sein.": [
+                    102
+                ],
+                "Nachdem": [
+                    103,
+                    141
+                ],
+                "das": [
+                    104,
+                    223,
+                    291
+                ],
+                "geplante": [
+                    105
+                ],
+                "Vorhaben": [
+                    106
+                ],
+                "Vorarbeiten": [
+                    108,
+                    182
+                ],
+                "zunachst": [
+                    109,
+                    174
+                ],
+                "nicht": [
+                    110
+                ],
+                "hinauskam,": [
+                    111
+                ],
+                "erhielt": [
+                    112
+                ],
+                "es": [
+                    113
+                ],
+                "neue": [
+                    114
+                ],
+                "Aktualitat": [
+                    115
+                ],
+                "durch": [
+                    116,
+                    311,
+                    316
+                ],
+                "von": [
+                    119,
+                    150,
+                    224
+                ],
+                "dritter": [
+                    120
+                ],
+                "Seite": [
+                    121
+                ],
+                "Mai": [
+                    123
+                ],
+                "HK,": [
+                    126
+                ],
+                "einem": [
+                    128
+                ],
+                "groseren": [
+                    129
+                ],
+                "Koordinator": [
+                    132
+                ],
+                "Hauptautor": [
+                    134
+                ],
+                "die": [
+                    136,
+                    168,
+                    198,
+                    247
+                ],
+                "Didaktik": [
+                    137
+                ],
+                "Geographie": [
+                    139
+                ],
+                "mitzuarbeiten.": [
+                    140
+                ],
+                "auch": [
+                    144
+                ],
+                "hierfur": [
+                    145
+                ],
+                "Bereitschaft": [
+                    147
+                ],
+                "vergewissert": [
+                    152
+                ],
+                "hatte,": [
+                    153
+                ],
+                "gab": [
+                    154
+                ],
+                "nach": [
+                    156
+                ],
+                "anfanglichem": [
+                    157
+                ],
+                "Zogern": [
+                    158
+                ],
+                "Zusage,": [
+                    160
+                ],
+                "zog": [
+                    161
+                ],
+                "diese": [
+                    162
+                ],
+                "wieder": [
+                    164
+                ],
+                "zuruck,": [
+                    165
+                ],
+                "nachdem": [
+                    166
+                ],
+                "Dinge": [
+                    169
+                ],
+                "vertraglich": [
+                    170
+                ],
+                "anders": [
+                    171
+                ],
+                "darstellten": [
+                    172
+                ],
+                "besprochen.": [
+                    175
+                ],
+                "Stattdessen": [
+                    176
+                ],
+                "setzten": [
+                    177
+                ],
+                "ihre": [
+                    181
+                ],
+                "am": [
+                    183
+                ],
+                "bereits": [
+                    184
+                ],
+                "begonnenen": [
+                    185
+                ],
+                "Lexikonprojekt": [
+                    186
+                ],
+                "fort.": [
+                    187
+                ],
+                "In": [
+                    188,
+                    253
+                ],
+                "Weiterfuhrung": [
+                    189
+                ],
+                "vorausgegangenen": [
+                    191
+                ],
+                "Uberlegungen": [
+                    192
+                ],
+                "wurde": [
+                    193,
+                    222,
+                    236
+                ],
+                "Leitlinie": [
+                    195
+                ],
+                "Begriffsabhandlung": [
+                    197
+                ],
+                "Formel": [
+                    199
+                ],
+                "„so": [
+                    200
+                ],
+                "knapp": [
+                    201
+                ],
+                "wie": [
+                    202,
+                    206
+                ],
+                "moglich,": [
+                    203
+                ],
+                "so": [
+                    204
+                ],
+                "ausfuhrlich": [
+                    205
+                ],
+                "notig“": [
+                    207
+                ],
+                "verabredet.": [
+                    208
+                ],
+                "Als": [
+                    209
+                ],
+                "weiteres": [
+                    210
+                ],
+                "Werk,": [
+                    211
+                ],
+                "man": [
+                    214,
+                    308
+                ],
+                "beim": [
+                    216
+                ],
+                "orientierten": [
+                    220
+                ],
+                "konne,": [
+                    221
+                ],
+                "Hartmut": [
+                    225
+                ],
+                "Leser": [
+                    226
+                ],
+                "herausgegebene": [
+                    227
+                ],
+                "„DIERCKE-Worterbuch": [
+                    228
+                ],
+                "Allgemeine": [
+                    229
+                ],
+                "Geographie“": [
+                    230
+                ],
+                "(12.": [
+                    231
+                ],
+                "Aufl.": [
+                    232
+                ],
+                "2001)": [
+                    233
+                ],
+                "gesehen.": [
+                    234
+                ],
+                "Weiterhin": [
+                    235
+                ],
+                "angestrebt,": [
+                    237
+                ],
+                "moglichst": [
+                    239
+                ],
+                "groses": [
+                    240
+                ],
+                "Repertoire": [
+                    241
+                ],
+                "Begriffen": [
+                    243
+                ],
+                "zu": [
+                    244,
+                    305
+                ],
+                "bearbeiten,": [
+                    245
+                ],
+                "Breite": [
+                    248
+                ],
+                "Geographiedidaktik": [
+                    250
+                ],
+                "angemessen": [
+                    251
+                ],
+                "abzudecken.": [
+                    252
+                ],
+                "somit": [
+                    255
+                ],
+                "anvisierten": [
+                    256
+                ],
+                "Segment": [
+                    257
+                ],
+                "‘umfassenderer": [
+                    258
+                ],
+                "Zusammenstellungen": [
+                    259
+                ],
+                "kompakt": [
+                    260
+                ],
+                "behandelter": [
+                    261
+                ],
+                "Begriffe’": [
+                    262
+                ],
+                "sahen": [
+                    263
+                ],
+                "einerseits": [
+                    267
+                ],
+                "essentiellen": [
+                    268
+                ],
+                "Bedarf": [
+                    269
+                ],
+                "bei": [
+                    270,
+                    279
+                ],
+                "Kollegen": [
+                    272
+                ],
+                "in": [
+                    273,
+                    290
+                ],
+                "Wissenschaft,": [
+                    275
+                ],
+                "vor": [
+                    276
+                ],
+                "allem": [
+                    277
+                ],
+                "Lehrern": [
+                    281
+                ],
+                "insbesondere": [
+                    283
+                ],
+                "Studenten,": [
+                    285
+                ],
+                "welch": [
+                    286
+                ],
+                "letztere": [
+                    287
+                ],
+                "allmahlich": [
+                    288
+                ],
+                "erst": [
+                    289
+                ],
+                "normierte": [
+                    292
+                ],
+                "Begriffssystem": [
+                    293
+                ],
+                "hineinwachsen.": [
+                    294
+                ],
+                "Denn": [
+                    295
+                ],
+                "taglichen": [
+                    297
+                ],
+                "Anforderung,": [
+                    298
+                ],
+                "Vieles": [
+                    299
+                ],
+                "schnell": [
+                    300
+                ],
+                "dennoch": [
+                    302
+                ],
+                "hinreichend": [
+                    303
+                ],
+                "gut": [
+                    304,
+                    318
+                ],
+                "bewerkstelligen,": [
+                    306
+                ],
+                "kann": [
+                    307
+                ],
+                "nur": [
+                    309
+                ],
+                "entsprechen": [
+                    310
+                ],
+                "Begrenzung": [
+                    312
+                ],
+                "Aufwandes": [
+                    314
+                ],
+                "Einsatz": [
+                    317
+                ],
+                "geeigneter": [
+                    319
+                ],
+                "Mittel.": [
+                    320
+                ],
+                "Helmuth": [
+                    321
+                ],
+                "Kock": [
+                    322
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W641567648",
+            "counts_by_year": [],
+            "updated_date": "2022-11-21T07:20:31.582861",
+            "created_date": "2016-06-24"
+        },
+        {
+            "id": "https://openalex.org/W3171465028",
+            "doi": "https://doi.org/10.25162/gz-2012-0004",
+            "title": "Leser, Hartmut (Hrsg.): <i>Diercke-Wörterbuch Geographie</i>",
+            "display_name": "Leser, Hartmut (Hrsg.): <i>Diercke-Wörterbuch Geographie</i>",
+            "publication_year": 2012,
+            "publication_date": "2012-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W3171465028",
+                "doi": "https://doi.org/10.25162/gz-2012-0004",
+                "mag": "3171465028"
+            },
+            "host_venue": {
+                "id": "https://openalex.org/V20704927",
+                "issn_l": "0016-7479",
+                "issn": [
+                    "2365-3124",
+                    "0016-7479"
+                ],
+                "display_name": "Geographische Zeitschrift",
+                "publisher": "Franz Steiner Verlag GmbH",
+                "type": "journal",
+                "url": null,
+                "is_oa": false,
+                "version": null,
+                "license": null
+            },
+            "type": "journal-article",
+            "open_access": {
+                "is_oa": false,
+                "oa_status": null,
+                "oa_url": null
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A3170691563",
+                        "display_name": "Diana Griesinger",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "raw_affiliation_string": null
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A2478414420",
+                        "display_name": "Annika Mattissek",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "raw_affiliation_string": null
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A2598691027",
+                        "display_name": "Thilo Wiertz",
+                        "orcid": "https://orcid.org/0000-0001-7828-4275"
+                    },
+                    "institutions": [],
+                    "raw_affiliation_string": null
+                }
+            ],
+            "cited_by_count": 0,
+            "biblio": {
+                "volume": "100",
+                "issue": "1",
+                "first_page": "51",
+                "last_page": "52"
+            },
+            "is_retracted": false,
+            "is_paratext": null,
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C205649164",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1071",
+                    "display_name": "Geography",
+                    "level": 0,
+                    "score": "0.36377248"
+                }
+            ],
+            "mesh": [],
+            "alternate_host_venues": [
+                {
+                    "id": "https://openalex.org/V20704927",
+                    "display_name": "Geographische Zeitschrift",
+                    "type": "journal",
+                    "url": null,
+                    "is_oa": false,
+                    "version": null,
+                    "license": null
+                }
+            ],
+            "referenced_works": [],
+            "related_works": [
+                "https://openalex.org/W1494974852",
+                "https://openalex.org/W2000429244",
+                "https://openalex.org/W2049978209",
+                "https://openalex.org/W2227612306",
+                "https://openalex.org/W2346533055",
+                "https://openalex.org/W2803307177",
+                "https://openalex.org/W2899084033",
+                "https://openalex.org/W2905170953",
+                "https://openalex.org/W2977349308",
+                "https://openalex.org/W3140991623"
+            ],
+            "ngrams_url": "https://api.openalex.org/works/W3171465028/ngrams",
+            "abstract_inverted_index": null,
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W3171465028",
+            "counts_by_year": [],
+            "updated_date": "2022-11-16T20:26:36.269082",
+            "created_date": "2021-06-22"
+        },
+        {
+            "id": "https://openalex.org/W2754405712",
+            "doi": null,
+            "title": "Diercke Wörterbuch Geographie : Ausgabe 2017",
+            "display_name": "Diercke Wörterbuch Geographie : Ausgabe 2017",
+            "publication_year": 2017,
+            "publication_date": "2017-01-01",
+            "ids": {
+                "openalex": "https://openalex.org/W2754405712",
+                "mag": "2754405712"
+            },
+            "host_venue": {
+                "id": null,
+                "issn_l": null,
+                "issn": null,
+                "display_name": null,
+                "publisher": null,
+                "type": null,
+                "url": null,
+                "is_oa": false,
+                "version": null,
+                "license": null
+            },
+            "type": null,
+            "open_access": {
+                "is_oa": false,
+                "oa_status": null,
+                "oa_url": null
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A2755672634",
+                        "display_name": "Gabriele Broll",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "raw_affiliation_string": null
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A2754302200",
+                        "display_name": "Heike Egner",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "raw_affiliation_string": null
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A2756396753",
+                        "display_name": "Hartmut Leser",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "raw_affiliation_string": null
+                },
+                {
+                    "author_position": "middle",
+                    "author": {
+                        "id": "https://openalex.org/A1966193849",
+                        "display_name": "Eberhard Rothfuß",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "raw_affiliation_string": null
+                },
+                {
+                    "author_position": "last",
+                    "author": {
+                        "id": "https://openalex.org/A2756266004",
+                        "display_name": "Mark Vetter",
+                        "orcid": null
+                    },
+                    "institutions": [],
+                    "raw_affiliation_string": null
+                }
+            ],
+            "cited_by_count": 0,
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": null,
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C41008148",
+                    "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                    "display_name": "Computer science",
+                    "level": 0,
+                    "score": "0.4186224"
+                }
+            ],
+            "mesh": [],
+            "alternate_host_venues": [
+                {
+                    "id": null,
+                    "display_name": null,
+                    "type": null,
+                    "url": null,
+                    "is_oa": false,
+                    "version": null,
+                    "license": null
+                }
+            ],
+            "referenced_works": [],
+            "related_works": [],
+            "ngrams_url": "https://api.openalex.org/works/W2754405712/ngrams",
+            "abstract_inverted_index": null,
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2754405712",
+            "counts_by_year": [],
+            "updated_date": "2022-11-19T23:38:06.547574",
+            "created_date": "2017-09-25"
+        },
+        {
+            "id": "https://openalex.org/W2790659518",
+            "doi": "https://doi.org/10.1080/14790963.2017.1412718",
+            "title": "One River, Two Ukraines? Yurii Andrukhovych’s Imagined Geography of East-Central Europe",
+            "display_name": "One River, Two Ukraines? Yurii Andrukhovych’s Imagined Geography of East-Central Europe",
+            "publication_year": 2017,
+            "publication_date": "2017-07-03",
+            "ids": {
+                "openalex": "https://openalex.org/W2790659518",
+                "doi": "https://doi.org/10.1080/14790963.2017.1412718",
+                "mag": "2790659518"
+            },
+            "host_venue": {
+                "id": "https://openalex.org/V168233274",
+                "issn_l": "1479-0963",
+                "issn": [
+                    "1479-0963",
+                    "1745-8218"
+                ],
+                "display_name": "Central Europe",
+                "publisher": "Informa",
+                "type": "journal",
+                "url": null,
+                "is_oa": false,
+                "version": null,
+                "license": null
+            },
+            "type": "journal-article",
+            "open_access": {
+                "is_oa": false,
+                "oa_status": "closed",
+                "oa_url": null
+            },
+            "authorships": [
+                {
+                    "author_position": "first",
+                    "author": {
+                        "id": "https://openalex.org/A2789401100",
+                        "display_name": "Galyna Spodarets",
+                        "orcid": null
+                    },
+                    "institutions": [
+                        {
+                            "id": "https://openalex.org/I186354981",
+                            "display_name": "University of Passau",
+                            "ror": "https://ror.org/05ydjnb78",
+                            "country_code": "DE",
+                            "type": "education"
+                        }
+                    ],
+                    "raw_affiliation_string": "University of Passau, Germany"
+                }
+            ],
+            "cited_by_count": 0,
+            "biblio": {
+                "volume": null,
+                "issue": null,
+                "first_page": null,
+                "last_page": null
+            },
+            "is_retracted": false,
+            "is_paratext": false,
+            "concepts": [
+                {
+                    "id": "https://openalex.org/C205649164",
+                    "wikidata": "https://www.wikidata.org/wiki/Q1071",
+                    "display_name": "Geography",
+                    "level": 0,
+                    "score": "0.5648384"
+                },
+                {
+                    "id": "https://openalex.org/C2777606202",
+                    "wikidata": "https://www.wikidata.org/wiki/Q16389571",
+                    "display_name": "East-Central Europe",
+                    "level": 3,
+                    "score": "0.44193596"
+                },
+                {
+                    "id": "https://openalex.org/C17744445",
+                    "wikidata": "https://www.wikidata.org/wiki/Q36442",
+                    "display_name": "Political science",
+                    "level": 0,
+                    "score": "0.13960999"
+                },
+                {
+                    "id": "https://openalex.org/C94625758",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7163",
+                    "display_name": "Politics",
+                    "level": 2,
+                    "score": "0.04226896"
+                },
+                {
+                    "id": "https://openalex.org/C199539241",
+                    "wikidata": "https://www.wikidata.org/wiki/Q7748",
+                    "display_name": "Law",
+                    "level": 1,
+                    "score": "0.0"
+                }
+            ],
+            "mesh": [],
+            "alternate_host_venues": [
+                {
+                    "id": "https://openalex.org/V168233274",
+                    "display_name": "Central Europe",
+                    "type": "journal",
+                    "url": null,
+                    "is_oa": false,
+                    "version": null,
+                    "license": null
+                }
+            ],
+            "referenced_works": [],
+            "related_works": [
+                "https://openalex.org/W360224204",
+                "https://openalex.org/W578443237",
+                "https://openalex.org/W622035896",
+                "https://openalex.org/W636012544",
+                "https://openalex.org/W1544040667",
+                "https://openalex.org/W1891487657",
+                "https://openalex.org/W1963980507",
+                "https://openalex.org/W1964371836",
+                "https://openalex.org/W1983464309",
+                "https://openalex.org/W2036500152",
+                "https://openalex.org/W2087101232",
+                "https://openalex.org/W2139143479",
+                "https://openalex.org/W2312832755",
+                "https://openalex.org/W2479086486",
+                "https://openalex.org/W2486931999",
+                "https://openalex.org/W2500357898",
+                "https://openalex.org/W2542348647",
+                "https://openalex.org/W2742151541",
+                "https://openalex.org/W3001474559",
+                "https://openalex.org/W3106288605"
+            ],
+            "ngrams_url": "https://api.openalex.org/works/W2790659518/ngrams",
+            "abstract_inverted_index": {
+                "AbstractThis": [
+                    0
+                ],
+                "article": [
+                    1
+                ],
+                "discusses": [
+                    2
+                ],
+                "the": [
+                    3,
+                    6,
+                    14
+                ],
+                "role": [
+                    4
+                ],
+                "that": [
+                    5
+                ],
+                "Dnipro": [
+                    7
+                ],
+                "River": [
+                    8
+                ],
+                "(formerly": [
+                    9
+                ],
+                "Dnieper": [
+                    10
+                ],
+                "River)": [
+                    11
+                ],
+                "plays": [
+                    12
+                ],
+                "in": [
+                    13
+                ],
+                "discursive": [
+                    15
+                ],
+                "construction": [
+                    16
+                ],
+                "of": [
+                    17,
+                    21
+                ],
+                "Yurii": [
+                    18
+                ],
+                "Andrukhovych’s": [
+                    19
+                ],
+                "idea": [
+                    20
+                ],
+                "East-Central": [
+                    22
+                ],
+                "Europe.": [
+                    23
+                ],
+                "In": [
+                    24
+                ],
+                "his": [
+                    25
+                ],
+                "essays": [
+                    26
+                ],
+                "‘Like": [
+                    27
+                ],
+                "...": [
+                    28
+                ]
+            },
+            "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W2790659518",
+            "counts_by_year": [],
+            "updated_date": "2022-11-23T00:36:41.154222",
+            "created_date": "2018-03-29"
+        }
+    ],
+    "group_by": []
+}

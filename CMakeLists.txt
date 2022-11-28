@@ -17,6 +17,7 @@ add_subdirectory(libs/libnada)
 add_subdirectory(libs/cpr) # requires libcurl / libssl-dev / libcurl4-openssl-dev
 include_directories(libs/cpr/include)
 find_package(SFML 2 REQUIRED graphics window system) # audio network
+find_package(nlohmann_json REQUIRED)
 
 if (UNIX)
     set(OS_BIBLIOTHEKEN OpenGL GL pthread stdc++fs)
@@ -24,7 +25,7 @@ elseif (WIN32)
     find_package(OpenGL REQUIRED)
     set(OS_BIBLIOTHEKEN ${OPENGL_LIBRARIES} stdc++fs ws2_32 winmm)
 endif()
-set(NADA_LINK_LIBRARIES nada bibliotheken cpr sfml-graphics sfml-window sfml-system ${OS_BIBLIOTHEKEN})
+set(NADA_LINK_LIBRARIES nada bibliotheken cpr nlohmann_json::nlohmann_json sfml-graphics sfml-window sfml-system ${OS_BIBLIOTHEKEN})
 
 message(STATUS "CMAKE_CXX_FLAGS=${CMAKE_CXX_FLAGS}")
 
